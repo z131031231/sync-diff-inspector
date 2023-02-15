@@ -4,12 +4,11 @@ require (
 	github.com/BurntSushi/toml v0.3.1
 	github.com/DATA-DOG/go-sqlmock v1.3.3
 	github.com/Shopify/sarama v1.24.1
-	github.com/cespare/xxhash/v2 v2.1.1 // indirect
 	github.com/coreos/go-semver v0.3.0 // indirect
 	github.com/coreos/go-systemd v0.0.0-20190719114852-fd7a80b32e1f // indirect
 	github.com/go-sql-driver/mysql v1.4.1
 	github.com/golang/groupcache v0.0.0-20191002201903-404acd9df4cc // indirect
-	github.com/golang/protobuf v1.3.4
+	github.com/golang/protobuf v1.4.3
 	github.com/gorilla/websocket v1.4.1 // indirect
 	github.com/grpc-ecosystem/go-grpc-middleware v1.1.0 // indirect
 	github.com/klauspost/cpuid v1.2.1 // indirect
@@ -24,9 +23,7 @@ require (
 	github.com/pingcap/pd/v4 v4.0.0-beta.1.0.20200305072537-61d9f9cc35d3
 	github.com/pingcap/tidb v1.1.0-beta.0.20200413144033-c02e92c02f31
 	github.com/pingcap/tipb v0.0.0-20200212061130-c4d518eb1d60
-	github.com/prometheus/client_golang v1.2.1 // indirect
-	github.com/prometheus/client_model v0.0.0-20191202183732-d1d2010b5bee // indirect
-	github.com/prometheus/procfs v0.0.8 // indirect
+	github.com/prometheus/client_golang v1.11.1 // indirect
 	github.com/spaolacci/murmur3 v1.1.0 // indirect
 	github.com/syndtr/goleveldb v1.0.0 // indirect
 	github.com/tmc/grpc-websocket-proxy v0.0.0-20190109142713-0ad062ec5ee5 // indirect
@@ -35,7 +32,7 @@ require (
 	github.com/uber/jaeger-lib v2.2.0+incompatible // indirect
 	go.etcd.io/etcd v0.5.0-alpha.5.0.20191023171146-3cf2f69b5738
 	go.uber.org/zap v1.14.1
-	golang.org/x/net v0.0.0-20200301022130-244492dfa37a
+	golang.org/x/net v0.0.0-20200625001655-4c5254603344
 	golang.org/x/time v0.0.0-20190921001708-c4c64cad1fd0 // indirect
 	google.golang.org/appengine v1.6.5 // indirect
 	google.golang.org/genproto v0.0.0-20191206224255-0243a4be9c8f // indirect
